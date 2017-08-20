@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>annotationPicture</key>
+		<string>大众.jpg</string>
+		<key>carPicture</key>
+		<string>新桑塔纳.jpg</string>
+		<key>content</key>
+		<string>这是大众新桑塔纳</string>
+	</dict>
+	<dict>
+		<key>annotationPicture</key>
+		<string>宝马.png</string>
+		<key>carPicture</key>
+		<string>宝马X5.jpg</string>
+		<key>content</key>
+		<string>这是宝马X5</string>
+	</dict>
+</array>
+</plist>
